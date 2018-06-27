@@ -1,3 +1,6 @@
+
+
+
 /*The best price 1 function is the brute force method with quadratic complexity.Whereas the best price 2 is the usage of greedy method 
 where the complexity is reduced to linear complexity.O(n). In greeddy method, best local optimal solutions are considered to 
 generate the global optimal solution.*/
